@@ -1,0 +1,43 @@
+# Django #
+##########
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+
+# Python #
+##########
+*.py[cod]
+*$py.class
+*.so
+*.swp
+*.egg
+*.egg-info
+dist/
+build/
+venv/
+*.pyd
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.pyproj
+
+# Directories #
+###############
+.vscode/
+.idea/
+__pycache__/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
